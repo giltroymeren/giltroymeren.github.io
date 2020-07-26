@@ -152,7 +152,7 @@ Once the source code has been pushed, we can visit its URL provided in the logs.
 
 If we visit `https://your-app-name.herokuapp.com` we will be greeted by the following page:
 
-![Laravel Heroku 404 page](/assets/images/posts/2017-04-01-how-to-deploy-day-log-app-in-heroku/laravel-heroku-404-page.png){:class="img-responsive"}
+![Laravel Heroku 404 page](/images/posts/2017-04-01-how-to-deploy-day-log-app-in-heroku/laravel-heroku-404-page.png){:class="img-responsive"}
 
 This is because we do not have the database set up yet. Heroku's free database add-on [ClearDB](https://devcenter.heroku.com/articles/cleardb) was used to perform the set up.
 
@@ -237,7 +237,7 @@ There is no native online feature in Heroku to see the content of our database s
 
 Just go to the "Overview" tab of your project and click the "ClearDB MySQL" link under the "Installed add-ons" panel.
 
-![Heroku "Installed add-ons" panel](/assets/images/posts/2017-04-01-how-to-deploy-day-log-app-in-heroku/heroku-overview-cleardb.png){:class="img-responsive"}
+![Heroku "Installed add-ons" panel](/images/posts/2017-04-01-how-to-deploy-day-log-app-in-heroku/heroku-overview-cleardb.png){:class="img-responsive"}
 
 On the page we will see the following message [[Alternative reference]](http://w2.cleardb.net/faqs/#general_17):
 

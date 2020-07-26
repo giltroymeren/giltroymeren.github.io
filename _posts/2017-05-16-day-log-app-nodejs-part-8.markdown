@@ -247,8 +247,8 @@ Both the registration and login uses the same form with different attributes to 
 <% include ../partials/footer %>
 ~~~
 
-![Login page](/assets/images/posts/2017-05-16-day-log-app-nodejs-part-8/page-register.png){:class="img-responsive"}
-![Register page](/assets/images/posts/2017-05-16-day-log-app-nodejs-part-8/page-login.png){:class="img-responsive"}
+![Login page](/images/posts/2017-05-16-day-log-app-nodejs-part-8/page-register.png){:class="img-responsive"}
+![Register page](/images/posts/2017-05-16-day-log-app-nodejs-part-8/page-login.png){:class="img-responsive"}
 
 Authentication messages are shown when there is a failure that requires modification in `partials/alert.ejs`:
 
@@ -295,8 +295,8 @@ I also made changes to the header file to show the user options of "Login", "Reg
 </nav>
 ~~~
 
-![Header register and login](/assets/images/posts/2017-05-16-day-log-app-nodejs-part-8/header-default.png){:class="img-responsive"}
-![Header logout](/assets/images/posts/2017-05-16-day-log-app-nodejs-part-8/header-logout.png){:class="img-responsive"}
+![Header register and login](/images/posts/2017-05-16-day-log-app-nodejs-part-8/header-default.png){:class="img-responsive"}
+![Header logout](/images/posts/2017-05-16-day-log-app-nodejs-part-8/header-logout.png){:class="img-responsive"}
 
 ### Passport configuration
 

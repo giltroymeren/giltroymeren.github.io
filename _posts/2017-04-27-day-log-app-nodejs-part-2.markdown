@@ -207,7 +207,7 @@ Basically the test case `should contain the Day Log section` is to confirm the t
 
 `should show an alert when no DayLogs are available`, on the other hand, expects a page with a "Day Log" panel and an alert message with class `.alert-info` (I chose to check the class because the message may change and classes are shorter and easier to change).
 
-![DayLog index page - empty table](/assets/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table-empty.png){:class="img-responsive"}
+![DayLog index page - empty table](/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table-empty.png){:class="img-responsive"}
 
 The `before`, `beforeEach` and `afterEach` are setup and teardown helper methods. `before` will be executed *before* any `beforeEach` and `it` blocks, so it makes sense to put the connection there. `beforeEach`, as the name implies, is run before each `it` block and the command to visit the `BASE_URL`, the link to the page, is set there. Finally, `afterEach` is run after each `it` block and I chose to clear the database each time a test case is performed to make sure they use a blank slate.
 
@@ -412,7 +412,7 @@ The create button is already added to complete the look and it will be dealt wit
 
 In the previous test we left the structure of the available `DayLog`s in the view to just show as is with the `pre` element. Now they should be in a table similar to the original.
 
-![DayLog index page - not empty table](/assets/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
+![DayLog index page - not empty table](/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
 
 #### Make the failing test
 

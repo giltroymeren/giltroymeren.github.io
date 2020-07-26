@@ -74,7 +74,7 @@ In `base.html`, in orderto show an alert for every CRUD process, add the followi
 
 This will expect a variable `messages` that will contain a single message (hence the `:1` `slice` filter).
 
-![Home page with create alert](/assets/images/posts/2017-05-23-day-log-app-django-part-4/daylog-create-alert.png){:class="img-responsive"}
+![Home page with create alert](/images/posts/2017-05-23-day-log-app-django-part-4/daylog-create-alert.png){:class="img-responsive"}
 
 Additionally the form validation errors from Django should be shown as well in case the HTML5 interface fails. In `templates/daylog/form.html`, each `errors` variable from the `ModelForm` is expected:
 
@@ -86,7 +86,7 @@ Additionally the form validation errors from Django should be shown as well in c
 {% endraw %}
 ~~~
 
-![Create page with error alerts](/assets/images/posts/2017-05-23-day-log-app-django-part-4/create-error-alerts.png){:class="img-responsive"}
+![Create page with error alerts](/images/posts/2017-05-23-day-log-app-django-part-4/create-error-alerts.png){:class="img-responsive"}
 
 ## References
 * "Documentation." *Writing your first Django app, part 3 &#124; Django documentation &#124; Django*. N.p., n.d. Web. 19 May 2017. <[`https://docs.djangoproject.com/en/1.11/intro/tutorial03/`](https://docs.djangoproject.com/en/1.11/intro/tutorial03/)>.

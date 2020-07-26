@@ -75,7 +75,7 @@ to
 {% endraw %}
 ~~~
 
-![Edit Daylog page](/assets/images/posts/2017-05-23-day-log-app-django-part-7/edit.png){:class="img-responsive"}
+![Edit Daylog page](/images/posts/2017-05-23-day-log-app-django-part-7/edit.png){:class="img-responsive"}
 
 The test `test_edit_view` should pass.
 

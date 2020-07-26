@@ -77,7 +77,7 @@ I am currently studying [node.js](https://nodejs.org/en/) development with [Expr
 
     Visit `http://localhost:3000/` in your browser (defined in `/bin/www`) and the page should be similar to the following:
 
-    ![Express index page](/assets/images/posts/2017-04-22-how-to-change-express-jade-to-ejs/express-index-page.png){:class="img-responsive"}
+    ![Express index page](/images/posts/2017-04-22-how-to-change-express-jade-to-ejs/express-index-page.png){:class="img-responsive"}
 
     Now we can start with adding EJS dependency!
 

@@ -61,11 +61,11 @@ def details(request, slug):
 
 First the provided `slug` is fetched from the database. If it does not exist, then it should go back to the mhome page with an error message.
 
-![Home page with Daylog DNE alert](/assets/images/posts/2017-05-23-day-log-app-django-part-5/daylog-dne-alert.png){:class="img-responsive"}
+![Home page with Daylog DNE alert](/images/posts/2017-05-23-day-log-app-django-part-5/daylog-dne-alert.png){:class="img-responsive"}
 
 The file `daylog/form.html` is still used, only this time all fields are disabled and the form buttons not available.
 
-![View Daylog page](/assets/images/posts/2017-05-23-day-log-app-django-part-5/view.png){:class="img-responsive"}
+![View Daylog page](/images/posts/2017-05-23-day-log-app-django-part-5/view.png){:class="img-responsive"}
 
 ## References
 * "Documentation." *Writing your first Django app, part 3 &#124; Django documentation &#124; Django*. N.p., n.d. Web. 19 May 2017. <[`https://docs.djangoproject.com/en/1.11/intro/tutorial03/`](https://docs.djangoproject.com/en/1.11/intro/tutorial03/)>.

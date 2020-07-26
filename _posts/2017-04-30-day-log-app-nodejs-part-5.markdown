@@ -15,7 +15,7 @@ This post will discuss how to implement the page to edit a DayLog.
 
 Each `DayLog` is editable and this should be accessible from the home page with the "Edit" button in the table.
 
-![DayLog index page - not empty table](/assets/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
+![DayLog index page - not empty table](/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
 
 > **NOTE**: I decided to exclude the BDD testing in this part because I am having problems in implementing the edit test cases.
 
@@ -96,7 +96,7 @@ to:
     operation === constants.FORM_OPERATIONS.edit) ? 'readonly' : '' %>
 ~~~
 
-![DayLog Edit page](/assets/images/posts/2017-04-30-day-log-app-nodejs-part-5/daylog-edit.png){:class="img-responsive"}
+![DayLog Edit page](/images/posts/2017-04-30-day-log-app-nodejs-part-5/daylog-edit.png){:class="img-responsive"}
 
 If we re-run the application and submit the edit form, then a `404` page should appear again.
 

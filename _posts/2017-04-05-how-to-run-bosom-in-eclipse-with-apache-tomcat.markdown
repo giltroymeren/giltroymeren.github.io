@@ -82,11 +82,11 @@ Today, after many setbacks and procrastination, I finally managed to revive and 
 
     It should show the home page:
 
-    ![BOSOM - Home page](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/home.png){:class="img-responsive"}
+    ![BOSOM - Home page](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/home.png){:class="img-responsive"}
 
     If any of the other tabs are visited (say "BOSOM Calculator"), this page should appear:
 
-    ![BOSOM - Exception page](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/exception.png){:class="img-responsive"}
+    ![BOSOM - Exception page](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/exception.png){:class="img-responsive"}
 
     and the console should show the following error:
 
@@ -154,11 +154,11 @@ Today, after many setbacks and procrastination, I finally managed to revive and 
             * Libraries tab
                 * should show "JRE System Library [jre7] (unbound)" with an error icon (depends on the system).
 
-        !["JRE System Library [jre7] (unbound)" with an error icon](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/libraries-jre-with-error.png){:class="img-responsive"}
+        !["JRE System Library [jre7] (unbound)" with an error icon](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/libraries-jre-with-error.png){:class="img-responsive"}
 
         Edit this JRE and select your current Java SE version in the "Alternate JRE" part.
 
-        ![Choose "Alternate JRE"](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/jre-system-library-alternate-jre.png){:class="img-responsive"}
+        ![Choose "Alternate JRE"](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/jre-system-library-alternate-jre.png){:class="img-responsive"}
 
     *   Set the Apache Tomcat version
 
@@ -168,9 +168,9 @@ Today, after many setbacks and procrastination, I finally managed to revive and 
 
         In my case, Tomcat 6 was already selected but Tomcat 8 is present so I added it as well.
 
-        ![Project Facets - "Runtimes"](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/project-facets-runtimes.png){:class="img-responsive"}
+        ![Project Facets - "Runtimes"](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/eclipse/project-facets-runtimes.png){:class="img-responsive"}
 
 
 *   Run the application again and the other tabs should be accessible.
 
-    ![BOSOM - "BOSOM Calculator" page](/assets/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/bosom-calculator.png){:class="img-responsive"}
+    ![BOSOM - "BOSOM Calculator" page](/images/posts/2017-04-05-how-to-run-bosom-in-eclipse-with-apache-tomcat/pages/bosom-calculator.png){:class="img-responsive"}
