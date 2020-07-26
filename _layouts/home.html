@@ -20,7 +20,7 @@ layout: default
                 </span>&rarr;
                 <span>
                     <a class="post-link" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape | truncate : 100 }}{% if post.external-url %} &rarr;{% endif %}
+                        {{ post.title | escape | truncate : 65 }}{% if post.external-url %} &rarr;{% endif %}
                     </a>
                 </span>
             </li>
