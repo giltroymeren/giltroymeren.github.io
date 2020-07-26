@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="home row">
+
+    {{ content }}
+
+    {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+
+    <div class="col-sm-12">
+        <ul class="posts">
+        {% for post in paginator.posts %}
+            {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+            {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+
+            <li {% if lang != empty %} lang="{{ lang }}"{% endif %}>
+                <span>
+                    <code>{{ post.date | date: "%Y %m %d" }}</code>
+                </span>&rarr;
+                <span>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                        {{ post.title | escape | truncate : 100 }}{% if post.external-url %} &rarr;{% endif %}
+                    </a>
+                </span>
+            </li>
+        {% endfor %}
+        </ul>
+
+        {% include pagination.html %}
+    </div>
+
+</div>
