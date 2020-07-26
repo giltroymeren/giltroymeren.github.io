@@ -1,3 +1,27 @@
 nav {
     margin-top: 10px;
 }
+
+code {
+    color: #A9A9A9;
+}
+
+.post {
+    h1, h2, h3, h4, h5, h6 {
+        text-align: left;
+    }
+
+    h2::before,
+    h2::after {
+        content: "";
+        display: none;
+        width: 0px;
+        height: 0px;
+        margin: 0px;
+    }
+
+    .post-meta {
+        color: $gray;
+        font-size: 0.8em;
+    }
+}
