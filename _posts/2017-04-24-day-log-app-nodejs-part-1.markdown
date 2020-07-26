@@ -26,7 +26,7 @@ We will use the browser testing library [zombie.js](http://stackoverflow.com/que
 
 Our test will visit `http://localhost:3000/` and should expect the following page:
 
-![DayLogApp Node.js index page](/assets/images/posts/2017-04-24-day-log-app-nodejs-part-1/index-page.png){:class="img-responsive"}
+![DayLogApp Node.js index page](/images/posts/2017-04-24-day-log-app-nodejs-part-1/index-page.png){:class="img-responsive"}
 
 
 Create the `test` folder. This is the default location where [Mocha](https://mochajs.org/), the JavaScript testing framework Zombie is based on, will search for test files. Since we are interested in functional tests, create the folder `functional` inside it and `index.test.js` as our first test file.

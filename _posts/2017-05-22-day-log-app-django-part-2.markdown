@@ -243,9 +243,9 @@ Create `daylog/templates/daylog/base.html`:
 
 Please refer to the [Django Templates](https://docs.djangoproject.com/en/1.11/topics/templates/) document for more information.
 
-![Home page with one Daylog](/assets/images/posts/2017-05-22-day-log-app-django-part-2/table-not-empty.png){:class="img-responsive"}
+![Home page with one Daylog](/images/posts/2017-05-22-day-log-app-django-part-2/table-not-empty.png){:class="img-responsive"}
 
-![Home page with one Daylog](/assets/images/posts/2017-05-22-day-log-app-django-part-2/table-empty.png){:class="img-responsive"}
+![Home page with one Daylog](/images/posts/2017-05-22-day-log-app-django-part-2/table-empty.png){:class="img-responsive"}
 
 ### Run tests
 

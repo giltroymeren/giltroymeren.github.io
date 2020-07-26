@@ -73,7 +73,7 @@ Use heroku addons:docs mongolab to view documentation
 
 After a successful creation, visit your project's "Overview" page and click the "mLab MongoDB" entry in the "Installed add-ons" section to view the MongoLab page for it.
 
-![Heroku - project page - Overview tab](/assets/images/posts/2017-05-04-day-log-app-nodejs-part-7/heroku-project-overview.png){:class="img-responsive"}
+![Heroku - project page - Overview tab](/images/posts/2017-05-04-day-log-app-nodejs-part-7/heroku-project-overview.png){:class="img-responsive"}
 
 The database URL will be available there and copy it to the definitions in `constants.js`:
 
@@ -311,7 +311,7 @@ To https://git.heroku.com/daylogapp-node.git
 
 Visit the URL provided in the logs, visit app-name.herokuapp.com, or type `heroku open` in the console to make sure everything works as intended with the following page at the start:
 
-![DayLogApp Node.js index page](/assets/images/posts/2017-04-24-day-log-app-nodejs-part-1/index-page.png){:class="img-responsive"}
+![DayLogApp Node.js index page](/images/posts/2017-04-24-day-log-app-nodejs-part-1/index-page.png){:class="img-responsive"}
 
 This application is available at [`https://daylogapp-node.herokuapp.com/`](https://daylogapp-node.herokuapp.com/).
 

@@ -30,7 +30,7 @@ I followed App Shah's [*Simplest Spring MVC Hello World Example / Tutorial – S
 
 *   Create a new "Dynamic Web Project" with "bosom2" as "Project name".
 
-![Dynamic Web Project](/assets/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/dynamic-web-project.png){:class="img-responsive"}
+![Dynamic Web Project](/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/dynamic-web-project.png){:class="img-responsive"}
 
 *   Right click the project
 
@@ -139,7 +139,7 @@ I added the following to the `pom.xml`, in the same level as the `<build>` block
 
 These were based from the original `.jar` file list in `bosom`:
 
-![bosom - jar list](/assets/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/bosom-jar-list.png){:class="img-responsive"}
+![bosom - jar list](/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/bosom-jar-list.png){:class="img-responsive"}
 
 ### Copy files from `bosom` to `bosom2`
 
@@ -179,7 +179,7 @@ In order for the application to find our `.properties` files I also added the fo
 
 The `<directory>` value will look for `<include>` file types and copy them to the `target/classes` folder of a WAR file.
 
-![bosom2 - target/classes](/assets/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/bosom2-target-classes.png){:class="img-responsive"}
+![bosom2 - target/classes](/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/bosom2-target-classes.png){:class="img-responsive"}
 
 If this was not set correctly, then there will be an error looking for those files similar to these logs:
 
@@ -309,7 +309,7 @@ To solve this, go to "Preferences" &rarr; "Maven" &rarr; Java EE Integration and
 
 I once had the mistake of misplacing the `resources` folder from `WebContent/` and the following happened to the home page after running:
 
-![Resources not found in browser](/assets/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/resources-not-found-in-browser.png){:class="img-responsive"}
+![Resources not found in browser](/images/posts/2017-04-09-how-to-convert-bosom-to-a-pom-based-maven-project/resources-not-found-in-browser.png){:class="img-responsive"}
 
 Make sure this folder is strictly in `/bosom2/WebContent/resources` because it is set in `spring-servlet.xml`:
 

@@ -100,7 +100,7 @@ The attributes `method` and `action` are the `form`'s respective attributes of t
 
 The form is similar to the original however I changed the "Category" input from a dropdown to radio buttons (I was reading a UX article that emphasized in limiting the pressing a user has to do in a form).
 
-![DayLog Create page - default appearance](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-default.png){:class="img-responsive"}
+![DayLog Create page - default appearance](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-default.png){:class="img-responsive"}
 
 Create a new file `/views/daylog/form.ejs`:
 
@@ -256,7 +256,7 @@ describe('User visits /daylog/create', () => {
 
 The test expects that the same page with error alert messages near the fields after submitting the form.
 
-![DayLog Create page - empty form validation errors](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-error-required.png){:class="img-responsive"}
+![DayLog Create page - empty form validation errors](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-error-required.png){:class="img-responsive"}
 
 The assertion below conveniently checks for the message pattern if they contain the word "required" at the end, which is what will be set in the validation later.
 
@@ -620,7 +620,7 @@ The form also needs to be updated to show the information, have the `readonly` o
     <% } %>
     ~~~
 
-![DayLog View page](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-view.png){:class="img-responsive"}
+![DayLog View page](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-view.png){:class="img-responsive"}
 
 Additionally, the Day Log home page table has a incomplete link for each `daylog`. Update the `href` attribute of the cell that shows the `title` from `/<%= daylog.slug %>` to `/daylog/<%= daylog.slug %>`.
 
@@ -656,7 +656,7 @@ The native Express validation is useful back-end implementation and it is better
 
 Currently there is no way to check the validity of a slug. If we try to go to `/daylog/invalid-slug`, for example and it should not exist in your database, it will stop the application. The browser:
 
-![DayLog invalid slug page - uncatched](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-invalid-slug-uncatched.png){:class="img-responsive"}
+![DayLog invalid slug page - uncatched](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-invalid-slug-uncatched.png){:class="img-responsive"}
 
 The application will throw an error with the following logs:
 
@@ -748,7 +748,7 @@ GET /daylog/invalid-slug 404 37.267 ms - 1897
 
 and will show the following page:
 
-![DayLog invalid slug page - uncatched](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-invalid-slug-catched.png){:class="img-responsive"}
+![DayLog invalid slug page - uncatched](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-invalid-slug-catched.png){:class="img-responsive"}
 
 It is obvious that the error page needs more work but I will leave it to future improvements such as providing a better description and a link back to the create page.
 
@@ -791,7 +791,7 @@ In order to use it alongside the other Express assertions, just call it as any o
 request.assert('slug', 'Slug is already in use').isSlugUnique(operation);
 ~~~
 
-![DayLog invalid slug page - uncatched](/assets/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-error-slug-nonunique.png){:class="img-responsive"}
+![DayLog invalid slug page - uncatched](/images/posts/2017-04-29-day-log-app-nodejs-part-3/daylog-form-error-slug-nonunique.png){:class="img-responsive"}
 
 ## References
 * Alam, Zubair. "How to include a template with parameters in EJS?" *Stack Overflow*. N.p., 17 Nov. 2016. Web. 28 Apr. 2017. <[`http://stackoverflow.com/a/40652080`](http://stackoverflow.com/a/40652080)>.

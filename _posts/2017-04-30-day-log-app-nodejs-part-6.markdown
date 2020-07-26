@@ -15,7 +15,7 @@ This post will discuss how to implement the deletion a DayLog.
 
 Each `DayLog` is removable and this should be accessible from the home page with the "Delete" button in the table.
 
-![DayLog index page - not empty table](/assets/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
+![DayLog index page - not empty table](/images/posts/2017-04-27-day-log-app-nodejs-part-2/daylog-table.png){:class="img-responsive"}
 
 > **NOTE**: I decided to exclude the BDD testing in this part because I am having problems in implementing the edit test cases.
 

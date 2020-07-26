@@ -749,7 +749,7 @@ If we visit `/daylogs`, we should see a page with text "Available Day Logs" and 
 
 This should make the test **PASS**.
 
-![Day Log - Home](/assets/images/posts/2017-03-20-day-log-app/steps/list-daylog.png){:class="img-responsive"}
+![Day Log - Home](/images/posts/2017-03-20-day-log-app/steps/list-daylog.png){:class="img-responsive"}
 
 ###### Route model binding
 
@@ -832,7 +832,7 @@ View file `/views/daylogs/show.blade.php`:
 
 Since the `Task` model is not yet implemented we will only see the `Daylog`'s title in the page.
 
-![Day Log - View with no Task](/assets/images/posts/2017-03-20-day-log-app/steps/view-daylog-no-task.png){:class="img-responsive"}
+![Day Log - View with no Task](/images/posts/2017-03-20-day-log-app/steps/view-daylog-no-task.png){:class="img-responsive"}
 
 ##### `DaylogController::create()`
 
@@ -997,7 +997,7 @@ public function create()
 }
 ~~~
 
-![Day Log - Create](/assets/images/posts/2017-03-20-day-log-app/steps/create-daylog.png){:class="img-responsive"}
+![Day Log - Create](/images/posts/2017-03-20-day-log-app/steps/create-daylog.png){:class="img-responsive"}
 
 Now we have a form that will create a `Daylog` but currently it returns an error when we click the "Submit" button. Validation and storing to the database will be done by the `store()` method.
 
@@ -1182,7 +1182,7 @@ View file `daylogs/edit.blade.php`:
 @endsection
 ~~~
 
-![Day Log - Edit](/assets/images/posts/2017-03-20-day-log-app/steps/edit-daylog.png){:class="img-responsive"}
+![Day Log - Edit](/images/posts/2017-03-20-day-log-app/steps/edit-daylog.png){:class="img-responsive"}
 
 ##### `DaylogController::update`
 
@@ -1587,7 +1587,7 @@ We can observe that it also has the similar set of controller methods as before,
     @endif
     ~~~
 
-    ![Day Log - View with Tasks](/assets/images/posts/2017-03-20-day-log-app/steps/view-daylog-yes-task.png){:class="img-responsive"}
+    ![Day Log - View with Tasks](/images/posts/2017-03-20-day-log-app/steps/view-daylog-yes-task.png){:class="img-responsive"}
 
 #### Set up `TaskController` methods
 
@@ -1659,7 +1659,7 @@ View file:
 @endsection
 ~~~
 
-![Task - View](/assets/images/posts/2017-03-20-day-log-app/steps/view-task.png){:class="img-responsive"}
+![Task - View](/images/posts/2017-03-20-day-log-app/steps/view-task.png){:class="img-responsive"}
 
 ##### `TaskController::create()`
 
@@ -1747,7 +1747,7 @@ Together with `resources/views/partials/_form.blade.php`:
 </div>
 ~~~
 
-![Task - Create](/assets/images/posts/2017-03-20-day-log-app/steps/create-task.png){:class="img-responsive"}
+![Task - Create](/images/posts/2017-03-20-day-log-app/steps/create-task.png){:class="img-responsive"}
 
 ##### `TaskController::store()`
 
@@ -1935,7 +1935,7 @@ View file `resources/views/tasks/edit.blade.php`:
 @endsection
 ~~~
 
-![Task - Edit](/assets/images/posts/2017-03-20-day-log-app/steps/edit-task.png){:class="img-responsive"}
+![Task - Edit](/images/posts/2017-03-20-day-log-app/steps/edit-task.png){:class="img-responsive"}
 
 ##### `TaskController::update()`
 
@@ -2147,9 +2147,9 @@ OK (15 tests, 62 assertions)
 
     Here are screenshots of my previous project (before this one) called ["`laravel-daylog`"](https://bitbucket.org/giltroymeren/laravel-day-log) which was a combination of the [basic](https://laravel.com/docs/5.2/quickstart) and [intermediate](https://laravel.com/docs/5.2/quickstart-intermediate) Laravel tutorials.
 
-    ![Concept for Daylog create view with dynamic Task - Initial](/assets/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-initial.png){:class="img-responsive"}
+    ![Concept for Daylog create view with dynamic Task - Initial]s/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-initial.png){:class="img-responsive"}
 
-    ![Concept for Daylog create view with dynamic Task - Set](/assets/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-set.png){:class="img-responsive"}
+    ![Concept for Daylog create view with dynamic Task - Set]s/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-set.png){:class="img-responsive"}
 
     However I prioritized creating the application based of Flynsarmy and Barnes' original structure to serve as a foundation.
 

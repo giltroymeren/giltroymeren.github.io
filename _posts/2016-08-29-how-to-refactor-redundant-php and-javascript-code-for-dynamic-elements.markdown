@@ -7,7 +7,7 @@ categories: php javascript refactoring codeigniter
 
 The implementation of dynamic UI elements, specifically in forms, is one of the most memorable features I have implemented. Commonly it is used in managing objects that are variable and can be multiple such as entries in an address book. It was a requirement in my undergraduate software engineering class for certain models and I remember scouring the Internet for ways to implement it. Fortunately I was able to deliver the feature with my team then.
 
-![Concept for Daylog create view with dynamic Task - Set](/assets/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-set.png){:class="img-responsive"}
+![Concept for Daylog create view with dynamic Task - Set](/images/posts/2017-03-20-day-log-app/improvements/create-daylog-with-task-set.png){:class="img-responsive"}
 
 They are pretty easy in theory: assign an event to a button that creates or clones elements we want to be added, validate and send to the server; however these are much more than that. There are attributes that need to be tracked for each element, and since they are only added in the DOM after the whole page has been loaded, they will not be present after a redirect. A lot of work is needed in both the front and back-end.
 
