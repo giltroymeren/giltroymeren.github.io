@@ -255,9 +255,9 @@ urlArray.map(url => {
 
 
 ## References
-* Ajedi32. “Use Async Await with Array.map.” Stack Overflow, Stack Overflow, 19 Oct. 2016, [`stackoverflow.com/a/40140562/3314071`](stackoverflow.com/a/40140562/3314071).
-* Elliott, Eric. “Master the JavaScript Interview: What Is a Promise?” Medium, JavaScript Scene, 2 July 2019, [`medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261`](medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261).
-* Kantor, Ilya. “Async/Await.” The Modern JavaScript Tutorial, The Modern JavaScript Tutorial, 3 Feb. 2020, [`javascript.info/async-await`](javascript.info/async-await).
-* “Promise.prototype.catch().” MDN Web Docs, Mozilla Development Network, 2020, [`developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch`](developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch).
-* Vodnik, Sasha. “JavaScript: Async.” LinkedIn Learning, LinkedIn Learning, 14 Oct. 2019, [`linkedin.com/learning/javascript-async/`](www.linkedin.com/learning/javascript-async/).
-* “XMLHttpRequest.” MDN Web Docs, Mozilla Development Network, 2020, [`developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest).
+* Ajedi32. “Use Async Await with Array.map.” Stack Overflow, Stack Overflow, 19 Oct. 2016, <[`https://stackoverflow.com/a/40140562/3314071`](https://stackoverflow.com/a/40140562/3314071)>.
+* Elliott, Eric. “Master the JavaScript Interview: What Is a Promise?” Medium, JavaScript Scene, 2 July 2019, <[`https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261`](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)>.
+* Kantor, Ilya. “Async/Await.” The Modern JavaScript Tutorial, The Modern JavaScript Tutorial, 3 Feb. 2020, <[`https://javascript.info/async-await`](https://javascript.info/async-await)>.
+* “Promise.prototype.catch().” MDN Web Docs, Mozilla Development Network, 2020, <[`https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch)>.
+* Vodnik, Sasha. “JavaScript: Async.” LinkedIn Learning, LinkedIn Learning, 14 Oct. 2019, <[`https://linkedin.com/learning/javascript-async/`](https://linkedin.com/learning/javascript-async/)>.
+* “XMLHttpRequest.” MDN Web Docs, Mozilla Development Network, 2020, <[`https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)>.
