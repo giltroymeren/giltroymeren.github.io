@@ -131,9 +131,9 @@ console.log(Array.from('Hello World'))
 ~~~
 
 ## References
-* "Array.from() - JavaScript \| MDN." MDN Web Docs, Mozilla Developer Network, 10 Dec. 2021, <[`developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)>.
-* "Document: Keydown Event - Web APIs \| MDN." MDN Web Docs, Mozilla Developer Network, 26 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event`](https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)>.
-* "Document: Keyup Event - Web APIs \| MDN." MDN Web Docs, Mozilla Developer Network, 14 Sept. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/Document/keyup_event`](https://developer.mozilla.org/en-US/docs/Web/API/Document/keyup_event)>.
-* "HTMLElement: Transitionend Event - Web APIs \| MDN." MDN Web Docs, Mozilla Developer Network, 14 Sept. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event)>.
-* "JavaScript Drum Kit." wesbos.com, uploaded by Wes Bos, 8 Dec. 2016, <[`courses.wesbos.com/account/access/5868e2346a086527516067d3/view/194130650`](https://courses.wesbos.com/account/access/5868e2346a086527516067d3/view/194130650)>.
-* "KeyboardEvent - Web APIs \| MDN." MDN Web Docs, Mozilla Developer Network, 16 Nov. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent`](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)>.
+* "Array.from() - JavaScript \| MDN." *MDN Web Docs*, Mozilla Developer Network, 10 Dec. 2021, <[`developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)>.
+* "Document: Keydown Event - Web APIs \| MDN." *MDN Web Docs*, Mozilla Developer Network, 26 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event`](https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)>.
+* "Document: Keyup Event - Web APIs \| MDN." *MDN Web Docs*, Mozilla Developer Network, 14 Sept. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/Document/keyup_event`](https://developer.mozilla.org/en-US/docs/Web/API/Document/keyup_event)>.
+* "HTMLElement: Transitionend Event - Web APIs \| MDN." *MDN Web Docs*, Mozilla Developer Network, 14 Sept. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event)>.
+* "JavaScript Drum Kit." *wesbos.com*, uploaded by Wes Bos, 8 Dec. 2016, <[`javascript30.com`](https://javascript30.com/)>.
+* "KeyboardEvent - Web APIs \| MDN." *MDN Web Docs*, Mozilla Developer Network, 16 Nov. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent`](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)>.

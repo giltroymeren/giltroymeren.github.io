@@ -56,6 +56,6 @@ and can be combined into a single declaration to perform more complex transforma
 It sets the axis where an element should move based on the applied `transform` attributes.
 
 ## References
-* "CSS + JS Clock." wesbos.com, uploaded by Wes Bos, 8 Dec. 2016, <[`courses.wesbos.com/account/access/5868e2346a086527516067d3/view/194130581`](https://courses.wesbos.com/account/access/5868e2346a086527516067d3/view/194130581)>.
-* "transform - CSS: Cascading Style Sheets \| MDN." MDN Web Docs, Mozilla Developer Network, 25 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)>.
-* "transform-origin - CSS: Cascading Style Sheets \| MDN." MDN Web Docs, Mozilla Developer Network, 13 Aug. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/transform-origin`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)>.
+* "CSS + JS Clock." *wesbos.com*, uploaded by Wes Bos, 8 Dec. 2016, <[`javascript30.com`](https://javascript30.com/)>.
+* "transform - CSS: Cascading Style Sheets \| MDN." *MDN Web Docs*, Mozilla Developer Network, 25 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)>.
+* "transform-origin - CSS: Cascading Style Sheets \| MDN." *MDN Web Docs*, Mozilla Developer Network, 13 Aug. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/transform-origin`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)>.
