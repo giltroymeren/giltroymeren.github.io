@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Day 1 of 30 Days of JavaScript"
 date:   2021-12-29
-categories: notes series javascript 30_days_of_js
+categories: notes series javascript javascript30
 ---
 
 This is the first entry of [Wes Bos' 30 Days of JavaScript](https://javascript30.com/) coding challenge to brush up on my JavaScript skills and learn new things that I might not be aware of!

@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Day 2 of 30 Days of JavaScript"
 date:   2021-12-30
-categories: notes series javascript css 30_days_of_js
+categories: notes series javascript css javascript30
 ---
 
 Today's topic mostly had basic JS code and some time mathematics. What stood out for me are the CSS animations discussed.

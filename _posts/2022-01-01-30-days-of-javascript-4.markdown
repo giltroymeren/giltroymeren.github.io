@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Day 4 of 30 Days of JavaScript"
 date:   2022-01-01
-categories: notes series javascript 30_days_of_js
+categories: notes series javascript javascript30
 ---
 
 I believe I am well-versed with the latest JS array methods but I managed to learn new techniques today!

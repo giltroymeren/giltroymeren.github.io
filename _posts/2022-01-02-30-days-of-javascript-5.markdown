@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Day 5 of 30 Days of JavaScript"
 date:   2022-01-02
-categories: notes series javascript css 30_days_of_js
+categories: notes series javascript css javascript30
 ---
 
 ## Table of Contents
@@ -46,8 +46,7 @@ document.querySelectorAll('nav li')
 ~~~
 
 ## References
-* "align-self
- - CSS: Cascading Style Sheets \| MDN." *MDN Web Docs*, Mozilla Developer Network, 29 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)>.
+* "align-self - CSS: Cascading Style Sheets \| MDN." *MDN Web Docs*, Mozilla Developer Network, 29 Oct. 2021, <[`developer.mozilla.org/en-US/docs/Web/CSS/align-self`](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self)>.
 * "Bukhvalova, Yulia. “Flex Cheatsheet - Alignment." *Про CSS (About CSS)*, <[`yoksel.github.io/flex-cheatsheet/#section-alignment`](https://yoksel.github.io/flex-cheatsheet/#section-alignment)>. Accessed 30 Dec. 2021.
 * "CSS Flexible Box Layout Module Level 1 - Alignment." *W3C*, W3C, 19 Nov. 2018,<[`w3.org/TR/css-flexbox-1/#alignment`](https://www.w3.org/TR/css-flexbox-1/#alignment>).
 * "DOMTokenList.toggle() - Web APIs \| MDN." *MDN Web Docs*, Mozilla Developer Network, 22 Nov. 2021, <[`developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle`](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle)>.

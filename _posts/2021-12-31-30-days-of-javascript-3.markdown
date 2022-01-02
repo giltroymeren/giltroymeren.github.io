@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Day 3 of 30 Days of JavaScript"
 date:   2021-12-31
-categories: notes series javascript css 30_days_of_js
+categories: notes series javascript css javascript30
 ---
 
 This is my first time to encounter variables in native CSS. The lesson was exciting and I learned a lot!
