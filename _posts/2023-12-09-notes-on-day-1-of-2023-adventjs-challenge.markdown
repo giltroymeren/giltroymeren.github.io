@@ -10,9 +10,13 @@ I recently attended [React Day Berlin](https://reactday.berlin/) and [Miguel Án
 ![Miguel Ángel Durán](/images/posts/2023-12-09-notes-on-day-1-of-2023-adventjs-challenge/react-day-berlin-miguel-angel-duran.jpeg){:class="img-responsive"}
 
 ## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Challenge](#challenge)
+- [Lessons Learned](#lessons-learned)
+  - [`Array.prototype.filter()`](#arrayprototypefilter)
+  - [`Array.prototype.indexOf()`](#arrayprototypeindexof)
+- [References](#references)
 
-- TOC
-  {:toc}
 
 ## Challenge
 
