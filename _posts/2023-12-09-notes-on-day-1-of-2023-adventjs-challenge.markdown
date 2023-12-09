@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes on Day 1 of 2023 AdventJS Challenge"
-date: 2021-12-29
+date: 2023-12-09
 categories: notes series javascript adventjs2023
 ---
 
