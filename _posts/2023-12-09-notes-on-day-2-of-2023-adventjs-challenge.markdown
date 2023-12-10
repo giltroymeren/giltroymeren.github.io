@@ -11,19 +11,38 @@ categories: notes series javascript adventjs2023 typescript
 
 - [Table of Contents](#table-of-contents)
 - [Challenge](#challenge)
+  - [Solution](#solution)
 - [Lessons Learned](#lessons-learned)
   - [`Array.prototype.concat()`](#arrayprototypeconcat)
   - [`Array.prototype.every()`](#arrayprototypeevery)
   - [`Array.prototype.split()`](#arrayprototypesplit)
   - [Declaring `export {}`](#declaring-export-)
-  - [Using `interace` and `type` in TypeScript](#using-interace-and-type-in-typescript)
+  - [Using `interface` and `type` in TypeScript](#using-interface-and-type-in-typescript)
 - [References](#references)
 
 ## Challenge
 
 Today's topic is related to the previous day's string manipulation problem wherein given a random string of alphabet characters or "materials", we need to determine if a "gift" or an actual word (which are Spanish *en esto caso hoy*) can be spelled using them.
 
+### Solution
+
 My solution was simple: split each *gift*, sort alphabetically and compare with the characters of *materials* that is also split alphabetically. If all characters of said *gift* are found, then it is doable in Santa's workshop.
+
+~~~ javascript
+function manufacture(gifts: Array<string>, materials: string) {
+  const materialsArr = materials.split("").sort();
+
+  const results: Array<string> = [];
+  for (let i = 0; i < gifts.length; i++) {
+    const gift = gifts[i].split("").sort();
+    if (gift.every((letter) => materialsArr.includes(letter))) {
+      results.push(gifts[i]);
+    }
+  }
+
+  return results;
+}
+~~~
 
 ## Lessons Learned
 

@@ -12,6 +12,7 @@ I recently attended [React Day Berlin](https://reactday.berlin/) and [Miguel Án
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Challenge](#challenge)
+  - [Solution](#solution)
 - [Lessons Learned](#lessons-learned)
   - [`Array.prototype.filter()`](#arrayprototypefilter)
   - [`Array.prototype.indexOf()`](#arrayprototypeindexof)
@@ -23,9 +24,23 @@ I recently attended [React Day Berlin](https://reactday.berlin/) and [Miguel Án
 [Day 1](https://adventjs.dev/challenges/2023/1) starts with a bang with a duplicate search problem:
 
 > Find the first identification number that has been repeated, **where the second occurrence has the smallest index**!
+> 
 > In other words, if there is more than one repeated number, you must return the number whose second occurrence appears first in the list. If there are no repeated numbers, return -1.
 
 I have encountered a lot of these integrated in my JS bootcamps and several frontend developer application exams and I think this is a classic staple for any developer to solve.
+
+### Solution
+
+The way I solved it is to save all repeated digits in order of appearance and return the first element from this list:
+
+~~~ javascript
+function findFirstRepeated(gifts: Array<number>) {
+  const duplicates = gifts.filter(
+    (item, index) => gifts.indexOf(item) !== index
+  );
+  return duplicates.length ? duplicates[0] : -1;
+}
+~~~
 
 ## Lessons Learned
 
