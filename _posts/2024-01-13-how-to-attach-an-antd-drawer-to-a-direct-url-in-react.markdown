@@ -129,7 +129,7 @@ const Home: React.FC = () => {
   ...
 ~~~
 
-The hook `usePreviousPath` is a nifty tool that we can use, as it name suggests, to get the previous path for the comparison. The following is a TypeScript version of the code shared by Shubham Khatri that takes advantage of the 
+The hook `usePreviousPath` is a nifty tool that we can use, as it name suggests, to get the previous path for the comparison. The following is a TypeScript version of the code shared by Shubham Khatri that takes advantage of the `useRef` hook to take note of the current path that will be checked later when the appearance of the drawer is triggered hence this value will then be the previous path.
 
 ~~~javascript
 const usePreviousPath = <T = any>(value: T) => {
@@ -142,8 +142,6 @@ const usePreviousPath = <T = any>(value: T) => {
   return ref.current;
 };
 ~~~
-
-This takes advantage of the `useRef` hook to take note of the current path that will be checked later when the appearance of the drawer is triggered hence this value will then be the previous path.
 
 ##### useNavigate
 
