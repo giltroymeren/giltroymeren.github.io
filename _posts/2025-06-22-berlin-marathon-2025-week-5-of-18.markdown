@@ -21,7 +21,9 @@ categories: running sports 2025-berlin-marathon
 | 2025-06-21 | Saturday  | Recovery 8.0 km                                                     | 5.6mi/9km @ 7:05km<br>Yoga and mobility drills           |
 | 2025-06-22 | Sunday    | Marathon pace run 25.7 km w 16.1 km @ marathon race pace            | 10mi/16km @ 5:10/km<br>Total: 16mi/25.77km @ 5:36/km            |
 
-- **Total:** 59.48mi **/** 95.72km
+- **Total:** 
+  - Expected: 55mi / 88.51km
+  - Actual: 59.48mi / 95.72km
 
 ## Thoughts
 
