@@ -17,10 +17,10 @@ In terms of choosing, the [18/70](https://www.defy.org/hacks/calendarhack/?d=202
 | Date       | Day       | Workout | Results |
 |------------|-----------|---------|---------|
 | 2025-05-19 | Monday    | Rest or cross-training | Yoga and mobility drills |
-| 2025-05-20 | Tuesday   | Lactate threshold 12.9 km w/ 6.4 km @ 15K to half marathon pace | 6.4 km @ expected: 4:16-4:22/km; actual: 4:20/km<br>Total: 13.02 km @ 5:27/km |
+| 2025-05-20 | Tuesday   | Lactate threshold 12.9 km w/ 6.4 km @ 15K to half marathon pace (4:16-4:22/km) | 6.4 km LT @ 4:20/km<br>Total: 13.02 km @ 5:27/km |
 | 2025-05-21 | Wednesday | Rest of cross-training | Recovery 12.09 km @ 6:42/km |
 | 2025-05-22 | Thursday  | General aerobic 14.5 km | 15.10 km @ 6:31/km |
-| 2025-05-23 | Friday    | RRest of cross-training | Recovery 12.18 km @ 7:04/km |
+| 2025-05-23 | Friday    | Rest of cross-training | Recovery 12.18 km @ 7:04/km |
 | 2025-05-24 | Saturday  | Recovery 6.4 km | 12.30 km @ 7:07/km |
 | 2025-05-25 | Sunday    | Medium-long run 19.3 km | 20.01 km @ 6:19/km |
 
@@ -34,7 +34,7 @@ In the first week there were only four days of specific workouts. I found this t
 
 ### Tuesday
 
-A lactate threshold (LT) run as a welcome set the tone for how challenging the plan will be. I made sure to carefully check my target paces and according to my recent 5km personal record of 19:54, my LT target range should be between 4:16 to 4:22 per kilometer.
+A lactate threshold (LT) run as a welcome set the tone for how challenging the plan will be. I made sure to carefully check my target paces and according to my recent 5 km personal record of 19:54, my LT target range should be between 4:16 to 4:22 per kilometer.
 
 Again I used my Asics Magic Speed 3s for the 800m track and hoped for the best. The book recommended a warm-up of at least 3.2 km and I used this to do some 500-meter strides before the main block started.
 

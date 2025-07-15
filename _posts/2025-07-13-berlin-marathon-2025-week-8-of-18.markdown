@@ -13,11 +13,11 @@ categories: running sports 2025-berlin-marathon
 | Date       | Day       | Workout | Results |
 |------------|-----------|---------|---------|
 | 2025-06-30 | Monday    | Rest or cross-training | Yoga and mobility drills |
-| 2025-07-01 | Tuesday   | Recovery + speed 12.9 km w/ 6 X 100 m strides | 11.98km @ 6:23/km |
-| 2025-07-02 | Wednesday | Medium-long run 19.3km | 20.15km @ 6:12/km |
-| 2025-07-03 | Thursday  | Recovery 8.0km | 12.23 @ 6:37/km |
-| 2025-07-04 | Friday    | Lactate threshold 16.1 km w 9.7 km @ 15K to half marathon race pace (4:16-4:22/km) | 9.7km LT @ 4:18/km<br>Total: 16.17 km @ 5:15/km |
-| 2025-07-05 | Saturday  | Recovery 8.0km | 11.11 km @ 6:55/km |
+| 2025-07-01 | Tuesday   | Recovery + speed 12.9 km w/ 6 X 100 m strides | 11.98 km @ 6:23/km |
+| 2025-07-02 | Wednesday | Medium-long run 19.3 km | 20.15 km @ 6:12/km |
+| 2025-07-03 | Thursday  | Recovery 8.0 km | 12.23 @ 6:37/km |
+| 2025-07-04 | Friday    | Lactate threshold 16.1 km w 9.7 km @ 15K to half marathon race pace (4:16-4:22/km) | 9.7 km LT @ 4:18/km<br>Total: 16.17 km @ 5:15/km |
+| 2025-07-05 | Saturday  | Recovery 8.0 km | 11.11 km @ 6:55/km |
 | 2025-07-06 | Sunday    | Long run 32.2 km  | 32.2 km @ 6:04/km |
 
 - **Totals:**
@@ -42,7 +42,7 @@ Finally I had a lingering stomachache but my route didn’t have any open public
 
 Today’s long run focused on continuing the cadence practice. I started with 176 steps per minute (spm) and gradually settled to a guided 182 spm on the main block (10% less than my target marathon pace). It was quite challenging to keep up compared to the 180 spm last Sunday because I know each foot strike followed a tick of the metronome but there were moments where I thought I got the hang of it and suddenly I was all over the place!
 
-Nevertheless there were a lot of positive results today: 182 spm was actually doable and I cruised for a bulk of the 14.12km main block. I didn’t go over my current Zone 2 and even though there were times that I had to forcefully quicken my steps, I never felt that I was exerting sprint effort to catch up. All was calm and collected which I was happy to settle in. 
+Nevertheless there were a lot of positive results today: 182 spm was actually doable and I cruised for a bulk of the 14.12 km main block. I didn’t go over my current Zone 2 and even though there were times that I had to forcefully quicken my steps, I never felt that I was exerting sprint effort to catch up. All was calm and collected which I was happy to settle in. 
 
 On the other hand, my Asics Superblast 2, my dedicated long run shoes, reached 275km after today’s workout. I still feel that the fore and mid-foot foam needs more cushioning and response for a super-trainer. I didn’t feel any discomfort because of that and will continue to use it regardless. I hope to find a similar shoe but with more meat on the front-side.
 
@@ -64,7 +64,7 @@ I can say that today’s LT run was the least uncomfortable I’ve ever done thi
 
 Each step I felt the shoes both caught me with of adequate cushioning and spring each foot with responsiveness and bounciness I liked to go forward. It was a different experience from the Asics Magic Speed 3s that I delegate for track workouts because these shoes can do it but I have to exert extra effort to reach the same paces with less of that cushioning from the Elites.
 
-I took one gulp of my gel every 2 km to make sure I have ample nutrition to keep going which I also used to divide the entire thing into the same 2 km laps in my head to make it less intimidating. The first two laps weren’t good because I went over the limit with paces of 4:28 and 4:23 so I had to compensate by going much faster for the rest of the run. Honestly I wasn’t burdened by this thought because as I’ve mentioned already, I didn’t have trouble maintaining whatever pace I achieved by lap three to the end. Actually by the fourth and sixth kilometers I was doing well and not feeling any form of discomfort in my legs and feet. Of course I was still working hard to be within the 4:16 to 4:22/km pace but there was nothing that distracted me from going for more. I want to highlight that even though I was running faster than the upper limit of 4:16/km for half of the workout, there was nothing different from the feeling of running within the range. By the eight lap I did a body check and was on the fence if I can maintain this up to 16km or even a half-marathon because technically 4:22/km is my predicted HM pace but it was too much. I started the day with only finishing 9.7 km nothing more and nothing less.
+I took one gulp of my gel every two kilometers to make sure I have ample nutrition to keep going which I also used to divide the entire thing into the same 2 km laps in my head to make it less intimidating. The first two laps weren’t good because I went over the limit with paces of 4:28 and 4:23 so I had to compensate by going much faster for the rest of the run. Honestly I wasn’t burdened by this thought because as I’ve mentioned already, I didn’t have trouble maintaining whatever pace I achieved by lap three to the end. Actually by the fourth and sixth kilometers I was doing well and not feeling any form of discomfort in my legs and feet. Of course I was still working hard to be within the 4:16 to 4:22/km pace but there was nothing that distracted me from going for more. I want to highlight that even though I was running faster than the upper limit of 4:16/km for half of the workout, there was nothing different from the feeling of running within the range. By the eight lap I did a body check and was on the fence if I can maintain this up to 16 km or even a half-marathon because technically 4:22/km is my predicted HM pace but it was too much. I started the day with only finishing 9.7 km nothing more and nothing less.
 
 | Lap | Distance | Time |
 | --- | --- | --- |
@@ -82,6 +82,8 @@ I took one gulp of my gel every 2 km to make sure I have ample nutrition to keep
 The last two laps went by like a breeze where I didn’t come to that place in my head of struggling and wanting the entire thing to end both physically with burning legs and feet and mentally. I am proud of what I have achieved today with the average of 4:18/km for a 9.7 km block. I wish that I thought of rounding it up to 10 km when programming the workout because it would have been an automatic new personal record (current is 42:54) but that’s fine!
 
 I now need to focus on recovery to prepare for Sunday’s massive 32.2 km target and I am excited to do it all over again like last week’s.
+
+### Saturday
 
 I can’t believe I’m writing a long post for this random recovery run but a lot of things happened!
 

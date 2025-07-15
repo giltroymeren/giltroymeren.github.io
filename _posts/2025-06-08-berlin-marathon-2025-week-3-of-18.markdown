@@ -15,7 +15,7 @@ categories: running sports 2025-berlin-marathon
 | 2025-06-02 | Monday    | Rest or cross-training | Yoga and mobility drills |
 | 2025-06-03 | Tuesday   | General aerobic 16.1 km | 18.08 km @ 6:17/km |
 | 2025-06-04 | Wednesday | Recovery 6.4km | 12.18 km @ 7:04/km |
-| 2025-06-05 | Thursday  | Lactate threshold 12.9 km w 6.4 km @ 15K to half marathon race pace (4:16-4:22/km) | Actual: 6.4 km @ 4:17/km<br>Total: 16.01 km @ 5:45/km |
+| 2025-06-05 | Thursday  | Lactate threshold 12.9 km w 6.4 km @ 15K to half marathon race pace (4:16-4:22/km) | 6.4 km LT @ 4:17/km<br>Total: 16.01 km @ 5:45/km |
 | 2025-06-06 | Friday    | Rest of cross-training | Recovery 11.24 km @ 7:29/km |
 | 2025-06-07 | Saturday  | Recovery 6.4km | 11.99 km @ 7:07/km |
 | 2025-06-08 | Sunday    | Medium-long run 22.5 km | 24.06 km @ 6:11/km |
@@ -54,7 +54,7 @@ As usual I have two main blocks from the book: starting the 1/4 at 20% less than
 
 I only struggled by the 18th kilometer because it was the end of my large loop and I still had 6 km left. I decided to go to a familiar route to complete the rest to keep the decreasing motivation at bay. It was a bit hard because my brain is used to seeing the 18th kilometer mark as the place where my workouts end but I had to focus because it wasn’t the case here.
 
-Fortunately I was able to finish it with extra 2 km because I wanted to close a solid loop in my map. I focused carefully with the foam roller massages on my legs when I got home to wrap up the week.
+Fortunately I was able to finish it with extra two kilometers because I wanted to close a solid loop in my map. I focused carefully with the foam roller massages on my legs when I got home to wrap up the week.
 
 ### Overall
 
