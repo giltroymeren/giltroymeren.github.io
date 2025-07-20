@@ -26,8 +26,6 @@ categories: running sports 2025-berlin-marathon
 
 ## Thoughts
 
-## Thoughts
-
 I was worried after Sunday’s long run that I will feel some uncomfortable amount of residual fatigue by the next two mornings based from my previous experience. Fortunately by Monday morning, my lower body felt normal with no specific pain on my left shin and both ankles. All the soreness were gone and I was able to do my yoga and mobility drills.
 
 ### Tuesday
