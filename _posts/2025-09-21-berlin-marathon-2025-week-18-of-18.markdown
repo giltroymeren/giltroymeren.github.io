@@ -89,4 +89,4 @@ I will spend the rest of the day preparing my clothing bag, making sure everythi
 
 ### Sunday
 
-TBA
+Full race report is available [here](https://giltroymeren.github.io/race-report-berlin-marathon-2025/).
